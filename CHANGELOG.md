@@ -1,3 +1,4 @@
-## 0.0.1
+## 0.0.1 - 2022-02-02
 
-* TODO: Describe initial release.
+* Created package initial.
+* Learn flutter package 
